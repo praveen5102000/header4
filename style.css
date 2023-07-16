@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.social li a {
+    display: block;
+    width: 30px;
+    height: 30px;
+    margin: 0 auto;
+}
+
+.fb a{
+    background-image: url(https://tse1.mm.bing.net/th?id=OIP.pnKzdu92bdQ8UbPIlilUIwHaHa&pid=Api&P=0&h=180);
+    background-repeat: no-repeat;
+    background-size: 25px;
+    background-position: 0 0;
+}
+.pin a{
+    background-image: url(http://pngimg.com/uploads/pinterest/pinterest_PNG66.png);
+    background-repeat: no-repeat;
+    background-size: 25px;
+    background-position: 0 0;
+}
+.ins a{
+    background-image: url(https://www.freepnglogos.com/uploads/transparent-instagram-logo----6.png);
+    background-repeat: no-repeat;
+    background-size: 25px;
+    background-position: 0 0;
+}
+.whts a{
+    background-image: url(https://cdn.freebiesupply.com/images/large/2x/whatsapp-logo-transparent-shadow.png);
+    background-repeat: no-repeat;
+    background-size: 25px;
+    background-position: 0 0;
+}
+.twt a{
+    background-image: url(https://www.aps.edu/sapr/images/pnglot.comtwitterbirdlogopng139735.png/image);
+    background-repeat: no-repeat;
+    background-size: 25px;
+    background-position: 0 0;
+}
+.slink {
+    margin: 0 auto;
+    width: 45%;
+    text-align: center;
+    background-color: #ccc;
+    padding: 20px;
+}
+.social{
+    display: flex;
+    background-color: cyan;
+    margin-bottom: 20px;
+}
+.social li{
+    list-style: none;
+    width: 20%;
+}
